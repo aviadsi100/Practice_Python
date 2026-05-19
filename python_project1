@@ -1,0 +1,14 @@
+print("Hello World!")
+
+# ① Variables — store data with a name
+name = "Aviad"
+age = 22
+is_active = True
+connected = True
+score = 98.5
+
+
+name = "Aviad"
+age = 278   
+connected = False
+score = 80  
